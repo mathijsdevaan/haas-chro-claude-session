@@ -10,7 +10,7 @@ This is the exercise where Claude Code really differentiates from traditional an
 
 You're the same CHRO as Exercise A. It's Friday afternoon. Your executive team meeting is Monday morning. The agenda has one item from the CEO:
 
-> **"What are our people telling us when they leave? Bring three actions we should take."**
+> **"What are our people telling us when they leave? What should we double down on, what should we fix, and what should we watch? Three things total."**
 
 You have 60 exit-interview transcripts from the last year. Normally this would take a consultant three weeks and cost $40,000. You have until Monday. You have Claude Code.
 
@@ -51,7 +51,7 @@ see across all of them.
 
 Pretend you're preparing for the Monday meeting:
 
-> **What are the top themes, and what three actions would you take?**
+> **What should we double down on, what should we fix, and what should we watch? Three things total.**
 
 You're not doing sentiment analysis. You're looking for **the story behind the numbers from Exercise A**. Many of these exits map onto the retention risks you might have found in the structured data — if you found pay-equity issues, see who's writing about pay. If you found manager issues, see who's writing about managers. Triangulate.
 
@@ -69,7 +69,7 @@ You're not doing sentiment analysis. You're looking for **the story behind the n
 
 ## Stretch prompts (if you have time)
 
-- *"Write a one-page memo to the exec team with three actions and the evidence from the transcripts for each."*
+- *"Write a one-page memo to the exec team: one thing to double down on, one thing to fix, one thing to watch — with evidence from the transcripts for each."*
 - *"If you could forward three specific exit interviews to the CEO — ones that are uniquely clarifying — which would they be and why?"*
 - *"Which findings from Exercise A (the structured data) are corroborated by the exit interviews? Which are contradicted?"*
 

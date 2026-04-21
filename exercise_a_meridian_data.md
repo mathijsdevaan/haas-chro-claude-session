@@ -8,7 +8,7 @@
 
 You've just joined **Meridian Technologies** — a fictional SaaS company of ~2,500 employees — as the new Chief People Officer. You're 90 days in. At your next board meeting the chair is going to ask you:
 
-> **"What are our biggest retention risks, and what would you do about them?"**
+> **"Where are our biggest people risks — and where are our bright spots? Bring three findings."**
 
 You don't yet know the data. You're not a full-time analyst. But you do have Claude Code.
 
@@ -62,9 +62,11 @@ jumps out.
 
 Now you're on your own. Use the board's question as your compass:
 
-> **What are Meridian's biggest retention risks, and what would you do about them?**
+> **Where are Meridian's biggest people risks — and where are our bright spots?**
 
 **You do not need to find all the patterns.** Find one or two things that would change what you'd say at the board meeting. Claude Code will happily do the number-crunching — your job is to ask the right questions and interpret the answers.
+
+Risks show up in lots of places — not just attrition. A pay gap, a stalled cohort, a manager rating more harshly than peers, or a lopsided promotion pattern is a retention risk even if no one has left yet.
 
 ---
 
@@ -74,7 +76,7 @@ These are not "the right answers." They're directions that CHROs typically explo
 
 - *"Which managers have the highest team attrition? Control for team size."*
 - *"Does attrition vary by hire source? Compare referrals, direct hires, campus, agency, and acquired."*
-- *"Plot voluntary attrition by function over time. Are any functions getting worse?"*
+- *"Are there functions or hire sources where people get promoted meaningfully faster or slower than peers?"*
 - *"Compare performance-rating distributions across functions. Are some functions rating people more harshly than others?"*
 - *"Break down average base salary at Senior Software Engineer level by gender."*
 
@@ -82,7 +84,7 @@ These are not "the right answers." They're directions that CHROs typically explo
 
 ## Stretch prompts (if you have time)
 
-- *"Build me a two-page board summary of the top three retention risks with recommended actions."*
+- *"Write a one-page board memo: one thing to double down on, one thing to fix, one thing to watch — with the evidence from the data for each."*
 - *"For the highest-risk manager you found, describe the team — who are they, what do they work on, what's their tenure distribution?"*
 - *"Are there any functions where top-performers (rating 5) are leaving at unusual rates?"*
 
